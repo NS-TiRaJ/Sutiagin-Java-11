@@ -1,1 +1,3 @@
-# Sutiagin-Java-11
+# Тестовое задание ASTON
+###  Сборщик Maven
+###  Версия Java 11
